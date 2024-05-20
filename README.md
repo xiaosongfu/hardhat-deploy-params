@@ -1,6 +1,6 @@
 # hardhat-deploy-params
 
-Setup contract deploy parameters in hardhat config file.
+Setup contract deploy parameters in hardhat config file and access them in your scripts.
 
 #### 1. Full example
 
